@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SlovarPy", "SlovarPy.pyproj", "{306D7DC0-C6D3-47EE-BB0E-C3C81F3D8F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306D7DC0-C6D3-47EE-BB0E-C3C81F3D8F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306D7DC0-C6D3-47EE-BB0E-C3C81F3D8F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC805F6-C210-4163-816D-2CCC407BB79E}
+	EndGlobalSection
+EndGlobal
